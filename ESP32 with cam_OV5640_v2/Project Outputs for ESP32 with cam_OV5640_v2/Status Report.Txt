@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ESP32 with cam_OV5640_v2.PrjPcb]
+   Generated File[Pick Place for ESP32 wth OV5640 CAM.txt]
+   Generated File[Pick Place for ESP32 wth OV5640 CAM.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:44:56 AM On 9/19/2024

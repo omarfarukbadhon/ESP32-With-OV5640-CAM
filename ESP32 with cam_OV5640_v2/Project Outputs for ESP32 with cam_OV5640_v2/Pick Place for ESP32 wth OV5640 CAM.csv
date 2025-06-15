@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+F:\Fiver\marcellsimon\ESP32 with cam_OV5640_v2\Project Outputs for ESP32 with cam_OV5640_v2\Pick Place for ESP32 wth OV5640 CAM.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/09/24
+Time:       10:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R2","4.7K","TopLayer","4k7_SMD_201","1111.000","856.980","270","50mW Thick Film Resistors 25V ±1% ±200ppm/? 4.7kO 0201 Chip Resistor - Surface Mount ROHS"
+"U7","HB-PH3-25413PB2GOP","TopLayer","3P_MH_2.54mm","1611.000","1031.000","0",""
+"U6","HB-PH3-25413PB2GOP","TopLayer","3P_MH_2.54mm","1611.000","215.000","0",""
+"P2","Header-Female-2.54_1x3","TopLayer","3P_FH_2.54mm","1093.000","629.000","90",""
+"P1","Header-Female-2.54_1x3","TopLayer","3P_FH_2.54mm","278.000","629.000","90",""
+"CN2","HDGC1501WV-2P","TopLayer","2P_white_Connector_1.5mm","274.000","1817.997","270",""
+"U5","FPC-05FB-24PH20","TopLayer","Camera_Connector","687.620","514.975","180","Dual-sided contacts / top and bottom connection -25?~+85? Flip type 0.5mm Horizontal attachment 24P SMD"
+"U4","TLV74315PDBVR","BottomLayer","1V5_Converter_(TLV74215)","681.000","888.000","0","300mA Fixed 1.5V Positive electrode 5.5V SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
+"U3","TLV74328PDBVR","BottomLayer","2V8_Converter_(TLV74328)","546.000","887.000","0","300mA 68dB Fixed 2.8V Positive electrode 5.5V SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
+"U2","AP63203WU-7","BottomLayer","3V3_Converter_(AP63203)","1192.000","1167.000","90","Step-down type Fixed 2A 3.3V 3.8V~32V TSOT-23-6 DC-DC Converters ROHS"
+"U1","ESP32-S3-MINI-1-N4R2","BottomLayer","ESP32-S3-MINI-1-N8","692.390","1417.535","180",""
+"TP5","TEST POINT","TopLayer","TESTPOINT","312.000","416.000","0",""
+"TP4","TEST POINT","TopLayer","TESTPOINT","1258.000","1282.809","180",""
+"TP3","TEST POINT","TopLayer","TESTPOINT","1258.000","1482.809","180",""
+"TP2","TEST POINT","TopLayer","TESTPOINT","1258.000","1382.809","180",""
+"TP1","TEST POINT","TopLayer","TESTPOINT","1258.000","1582.809","180",""
+"SW1","TS-1102-5516","BottomLayer","Push_Button_4P","234.000","1562.000","90","6mm 5.5mm Round Button 25mA Direct Insert 6mm SPST 100000 Times 1.6N 24V Plugin Tactile Switches ROHS"
+"R11","100R","BottomLayer","100R_402","725.000","1016.040","270","100mW Thick Film Resistors ±100ppm/? ±1% 100O 0402 Chip Resistor - Surface Mount ROHS"
+"R10","10K","BottomLayer","10K_SMD_Ceramic_201","921.000","994.490","270","50mW Thick Film Resistors 25V ±1% ±200ppm/? 10kO 0201 Chip Resistor - Surface Mount ROHS"
+"R9","100R","TopLayer","100R_402","1049.040","856.000","180","100mW Thick Film Resistors ±100ppm/? ±1% 100O 0402 Chip Resistor - Surface Mount ROHS"
+"R8","100R","TopLayer","100R_402","285.000","854.000","180","100mW Thick Film Resistors ±100ppm/? ±1% 100O 0402 Chip Resistor - Surface Mount ROHS"
+"R7","10K","BottomLayer","10K_SMD_Ceramic_201","579.000","573.000","270","50mW Thick Film Resistors 25V ±1% ±200ppm/? 10kO 0201 Chip Resistor - Surface Mount ROHS"
+"R6","10K","BottomLayer","10K_SMD_Ceramic_201","597.000","392.000","270","50mW Thick Film Resistors 25V ±1% ±200ppm/? 10kO 0201 Chip Resistor - Surface Mount ROHS"
+"R5","10K","TopLayer","10K_SMD_Ceramic_201","487.000","392.490","270","50mW Thick Film Resistors 25V ±1% ±200ppm/? 10kO 0201 Chip Resistor - Surface Mount ROHS"
+"R4","10K","TopLayer","10K_SMD_Ceramic_201","529.000","393.490","270","50mW Thick Film Resistors 25V ±1% ±200ppm/? 10kO 0201 Chip Resistor - Surface Mount ROHS"
+"R3","10K","BottomLayer","10K_SMD_Ceramic_201","322.000","1539.510","270","50mW Thick Film Resistors 25V ±1% ±200ppm/? 10kO 0201 Chip Resistor - Surface Mount ROHS"
+"R1","10K","BottomLayer","10K_SMD_Ceramic_201","1051.000","1568.000","90","50mW Thick Film Resistors 25V ±1% ±200ppm/? 10kO 0201 Chip Resistor - Surface Mount ROHS"
+"Q1","P_Mos","BottomLayer","P_channel_msfet_(AO3401A1)","827.000","986.000","270","30V 4A 44mO@10V,4.3A 1.4W 1.3V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS"
+"LED2","XYC-IRC18C-24","TopLayer","LED_SMD","1593.615","846.000","0",""
+"LED1","XYC-IRC18C-24","TopLayer","LED_SMD","1596.615","421.000","0",""
+"LDR1","GT36528","TopLayer","LDR","1599.000","632.000","0","SMD,2.4x3.6mm Photoresistors ROHS"
+"L2","BLM15AG601SN1D","BottomLayer","Ferrite","728.000","391.000","0","520mO ±25% 600O@100MHz 0402 Ferrite Beads ROHS"
+"L1","3.9uH","BottomLayer","3.9uH_power_Inductor","1216.000","1007.000","0","1.5A 3.9uH ±20% 1.4A SMD,3x3mm Power Inductors ROHS"
+"J1","Jumper","BottomLayer","PAD-JUMPER-2","925.905","577.777","270","SMD JUMPER"
+"D1","MBR120VLSFT1G","BottomLayer","Schottky_Diode","1141.000","1540.000","270","20V 300mV@1A 1A SOD-123FL Schottky Diodes ROHS"
+"CN1","B2B-PH-K-S(LF)(SN)","TopLayer","Connector_2P","1133.370","1814.000","0","1x2P 2P PH Tin 2 -25?~+85? 2A 1 2mm Brass Direct Insert Plugin,P=2mm Wire To Board Connector ROHS"
+"C17","100nF","BottomLayer","100nF_SMD_Ceramic_201","637.000","391.000","90","10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C16","22uF","BottomLayer","22uF_SMD_Ceramic_1210","822.000","631.000","270","10V 22uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C15","100nF","BottomLayer","100nF_SMD_Ceramic_201","478.000","551.000","0","10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C14","100nF","BottomLayer","100nF_SMD_Ceramic_201","671.800","559.000","180","10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C13","1uF","BottomLayer","1uF_Cap","674.000","763.000","180","16V 1uF Y5V -20%~+80% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C12","1uF","BottomLayer","1uF_Cap","316.000","906.000","90","16V 1uF Y5V -20%~+80% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C11","1uF","BottomLayer","1uF_Cap","479.000","776.000","0","16V 1uF Y5V -20%~+80% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C10","1uF","BottomLayer","1uF_Cap","410.000","905.000","90","16V 1uF Y5V -20%~+80% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C9","10uF","BottomLayer","10uF_SMD_Ceramic_603","673.000","617.000","180","10V 10uF B ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C8","10uF","BottomLayer","10uF_SMD_Ceramic_603","671.000","690.000","180","10V 10uF B ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C7","10uF","BottomLayer","10uF_SMD_Ceramic_603","479.000","608.000","0","10V 10uF B ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C6","10uF","BottomLayer","10uF_SMD_Ceramic_603","479.445","681.000","0","10V 10uF B ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C5","22pF","BottomLayer","22pF_SMD_Ceramic_603","981.000","993.560","90","16V 22pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C4","22pF","BottomLayer","22pF_SMD_Ceramic_603","1074.000","995.000","90","16V 22pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C3","10uF","BottomLayer","10uF_SMD_Ceramic_603","1065.000","1217.000","270","10V 10uF B ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C2","100nF","BottomLayer","100nF_SMD_Ceramic_201","1290.000","1147.000","270","10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C1","100nF","BottomLayer","100nF_SMD_Ceramic_201","321.000","1605.000","270","10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"

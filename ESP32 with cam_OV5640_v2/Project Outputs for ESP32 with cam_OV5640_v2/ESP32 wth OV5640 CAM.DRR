@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32 wth OV5640 CAM.PcbDoc   9/19/2024  10:44:27 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32 wth OV5640 CAM.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             5         PTH        40.49mm (1.59inch)
+T2      0.305mm (12mil)                                           Round             127       PTH        288.72mm (11.37inch)
+T3      0.7mm (28mil)                                             Round             2         PTH        1.50mm (0.06inch)
+T4      0.9mm (35mil)                                             Round             2         PTH        2.00mm (0.08inch)
+T5      1.02mm (40mil)                                            Round             6         PTH        30.86mm (1.22inch)
+T6      1.1mm (43mil)                                             Round             6         PTH        30.89mm (1.22inch)
+T7      1.2mm (47mil)                                             Round             2         PTH        20.02mm (0.79inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              150
+
+Total Processing Time (hh:mm:ss) : 00:00:00

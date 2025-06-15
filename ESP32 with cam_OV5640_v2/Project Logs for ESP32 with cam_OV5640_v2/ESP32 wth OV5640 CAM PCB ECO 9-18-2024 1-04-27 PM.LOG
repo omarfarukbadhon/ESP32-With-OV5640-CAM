@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=+5V NewDesignator=TP1
+Change Component Designator: OldDesignator=D+ NewDesignator=TP3
+Change Component Designator: OldDesignator=D- NewDesignator=TP2
+Change Component Designator: OldDesignator=GND NewDesignator=TP4
+Change Component Designator: OldDesignator=RST NewDesignator=SW1
+Change Component Designator: OldDesignator=STROBE NewDesignator=TP5
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Change Net Color : Old Net Color=RGB(106, 168, 79) New Net Color=Default
+Change Net Color : Old Net Color=RGB(61, 133, 198) New Net Color=Default
+Change Net Color : Old Net Color=RGB(166, 77, 121) New Net Color=Default
+Change Net Color : Old Net Color=RGB(241, 194, 50) New Net Color=Default
+Change Net Color : Old Net Color=RGB(204, 0, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(6, 255, 251) New Net Color=Default
+Change Net Color : Old Net Color=RGB(103, 78, 167) New Net Color=Default
+Added Pin To Net: NetName=Up11 Pin=LED1-2
+Added Pin To Net: NetName=Up11 Pin=U6-1
+Added Net: Name=Up11
+Added Pin To Net: NetName=Up22 Pin=LED2-2
+Added Pin To Net: NetName=Up22 Pin=U7-2
+Added Net: Name=Up22
+Add Class Member: Failed to add class member : Component R2 4.7K
+Added Member To Class: ClassName=SoC Member=Component SW1 TS-1102-5516
+Added Member To Class: ClassName=SoC Member=Component TP1 TEST POINT
+Added Member To Class: ClassName=SoC Member=Component TP2 TEST POINT
+Added Member To Class: ClassName=SoC Member=Component TP3 TEST POINT
+Added Member To Class: ClassName=SoC Member=Component TP4 TEST POINT
+Added Member To Class: ClassName=Camera Member=Component TP5 TEST POINT

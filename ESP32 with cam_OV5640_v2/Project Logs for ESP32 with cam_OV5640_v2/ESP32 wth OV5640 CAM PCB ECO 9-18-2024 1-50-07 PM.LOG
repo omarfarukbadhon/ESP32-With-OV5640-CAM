@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LDR Pin=R2-2
+Added Pin To Net: NetName=LDR_MCU Pin=R2-2
